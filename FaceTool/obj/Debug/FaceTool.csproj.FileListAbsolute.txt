@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\bin\Debug\FaceTool.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\bin\Debug\FaceTool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\bin\Debug\FaceTool.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\bin\Debug\Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\bin\Debug\Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\FaceTool\FaceTool\obj\Debug\FaceTool.frmMain.resources
